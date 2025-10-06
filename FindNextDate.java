@@ -10,6 +10,6 @@ public class FindNextDate {
     nextDate = 1;
     if( currentDate + 1 <= 31 )
       nextDate = currentDate + 1;
-    System.out.printn( "Next Date is found and is = " + nextDate);
+    System.out.printn( "Next Date is found and is = " + nextDate); //Bugs fixed dubey1
   }
 }
