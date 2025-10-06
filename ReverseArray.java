@@ -9,7 +9,7 @@
             System.out.println();  
             System.out.println("Array in reverse order: ");  
             //Loop through the array in reverse order  
-            for (int i = arr.length-1; i >= 0; i--) {  //Update 2 dubey4
+            for (int i = arr.length-1; i >= 0; i--) {  //Update 2 dubey1
                 System.out.print(arr[i] + " ");  //This is working code nicely done.
             }  
         }  
