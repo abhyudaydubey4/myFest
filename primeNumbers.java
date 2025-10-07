@@ -19,7 +19,7 @@ public class PrimeExample4 {
        }  
        for (int i = 2; i <= Math.sqrt(n); i++) {  
            if (n % i == 0) {  
-               return false;  //Update 2 dubey1
+               return false;  //Update 2 this can be easily optimised using log
            }  
        }  
        return true;  
