@@ -4,7 +4,7 @@ public class SmallestNumber {
     int a = scn.nextInt();
     int b = scn.nextInt();
 
-    System.out.println( a > b? a: b); //Nicely done dubey1
+    System.out.println( a > b? a: b); //Nicely done quality work
   }
 }
     
