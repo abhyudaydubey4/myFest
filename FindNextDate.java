@@ -4,7 +4,7 @@ public class FindNextDate {
     System.out.println("Enter today's Date : " );
     int currentDate = scn.nextInt();
     if(currentDate < 1){
-      System.out.println("Wrong Date Entered you noob.." )
+      System.out.println("Wrong Date Entered you idiot.." )
       System.exit;
     }
     System.out.println (" Calculating Next Date...");
